@@ -5,7 +5,7 @@ Overview:
 This project simulates a real-world IT Help Desk environment using ServiceNow/Jira, showcasing ticket lifecycle management, troubleshooting, and communication skills.
 
 Key Components:
-- Created and resolved 25+ realistic tickets.
+- Created and resolved 15+ realistic tickets.
 - Issues included login failures, VPN issues, DNS problems, Outlook failures, and hardware malfunctions.
 - Documented each ticket with steps, findings, root cause, and resolution.
 - Demonstrated customer service communication and SLA-aware responses.
@@ -51,5 +51,9 @@ So on this page you will fill out the incident new record and we will go though 
  8. Submit the ticket and it will load onto the ticket dashboard and as you see below the ticket has been add to  the indicents page.
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/70fa8fae-0d1e-4054-b041-fc8f90255024" />
+
+
+# Now let's Resolve some tickets (Documenting troubleshooting steps, findings, resolutions, and escalation paths following ITIL standards.)
+
 
 
